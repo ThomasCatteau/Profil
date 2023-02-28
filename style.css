@@ -1,7 +1,7 @@
 body {
   margin: 0;
   padding: 0;
-  font-family: Arial, sans-serif;
+  font-family: Lora, sans-serif;
 }
 
 .container {
@@ -11,9 +11,9 @@ body {
 
 .card-white {
   background-color: white;
+  padding: 40px;
   border-radius: 5px;
   box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.1);
-  padding: 20px;
   margin-bottom: 20px;
 }
 
